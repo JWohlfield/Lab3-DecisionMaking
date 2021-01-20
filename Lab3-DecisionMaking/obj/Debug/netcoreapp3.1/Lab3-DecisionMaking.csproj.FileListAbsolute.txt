@@ -1,0 +1,13 @@
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\bin\Debug\netcoreapp3.1\Lab3-DecisionMaking.exe
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\bin\Debug\netcoreapp3.1\Lab3-DecisionMaking.deps.json
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\bin\Debug\netcoreapp3.1\Lab3-DecisionMaking.runtimeconfig.json
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\bin\Debug\netcoreapp3.1\Lab3-DecisionMaking.runtimeconfig.dev.json
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\bin\Debug\netcoreapp3.1\Lab3-DecisionMaking.dll
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\bin\Debug\netcoreapp3.1\Lab3-DecisionMaking.pdb
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.csprojAssemblyReference.cache
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.AssemblyInfo.cs
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.dll
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.pdb
+C:\Users\Butch\source\repos\Lab3-DecisionMaking\Lab3-DecisionMaking\obj\Debug\netcoreapp3.1\Lab3-DecisionMaking.genruntimeconfig.cache
